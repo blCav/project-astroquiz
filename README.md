@@ -6,6 +6,8 @@ JQuery and Bootstrap4 project. It was realized in collaboration with CoCav and S
 
 Project in French language.
 
+-------
+
 Site en Bootstrap4 et JQuery. C'est un quiz de 4 questions sur l'espace.
 
 Technologies used : JQuery/JS, Bootstrap4, Sass, HTML & CSS
